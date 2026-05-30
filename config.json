@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdecrypt",
+        "uuid": 4680702,
+        "checksum": "gq7h3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
